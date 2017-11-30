@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab6_A156620</string>
+    <string name="customer_name">Customer Name:</string>
+    <string name="city">City</string>
+    <string name="save">save</string>
+    <string name="load">load</string>
+</resources>
